@@ -27,4 +27,6 @@ Counting humans or vehicles in/out of an entrance to obtain & display occupancy 
 ### NodeRED Flow
 ![Example Flow](https://github.com/cronsh/NRflows/blob/main/AOA%20Crossline%20occupancy%20NR%20Flow.jpg?raw=true)
 
+## Download NodeRED flow 
 
+[Click to download flow](https://github.com/cronsh/NRflows/blob/main/AOA%20Crossline%20Occupancy%20Dashboard%20v2.json)
