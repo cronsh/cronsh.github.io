@@ -1,4 +1,4 @@
-[Home page](readme.md)
+[Home page](README.md)
 
 # About this page (under construction)
 Stephen Cronshaw  
