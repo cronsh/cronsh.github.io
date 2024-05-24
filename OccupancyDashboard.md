@@ -1,4 +1,4 @@
-[Home page](readme.md)
+[Home page](README.md)
 
 ## Simple Occupancy Dashboard for AOA crossline counting 
 
