@@ -31,6 +31,6 @@ Counting humans or vehicles in/out of an entrance to obtain & display occupancy 
 
 ## Download NodeRED flow 
 
-[Click to download flow](https://github.com/cronsh/nodered-flows/blob/main/Axis-AOA-Crossline-counting-dashboard/AOA%20Occupancy.json)
+[Click to download flow](https://github.com/cronsh/nodered-flows/blob/main/Axis-AOA-Crossline-counting-dashboard/AOA%20Occupancy%20Dashboard.json)
 
 ![image](https://api.aintegration.team/image/custom-analytics)
