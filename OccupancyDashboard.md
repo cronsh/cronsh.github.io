@@ -2,7 +2,7 @@
 
 ## Simple Occupancy Dashboard for AOA crossline counting 
 
-![Example of Dashboard](https://github.com/cronsh/NRflows/blob/main/AOA%20Crossline%20occupancy%20NR%20Dashboard.jpg?raw=true)
+![Example of Dashboard](https://github.com/cronsh/nodered-flows/blob/main/Axis-AOA-Crossline-counting-dashboard/AOA%20Crossline%20occupancy%20NR%20Dashboard.jpg)
 
 ### Description:
  When a customer wants a simple dashboard for displaying the current occupancy of an area e.g. carpark or retail store. To achieve this you need to create two AOA crossline counting scenarios (in & out). Currently for single entrance only but could be adapted for more.
@@ -27,10 +27,10 @@ Counting humans or vehicles in/out of an entrance to obtain & display occupancy 
 - This is then outputted to a gauge dashboard node
 
 ### NodeRED Flow
-![Example Flow](https://github.com/cronsh/NRflows/blob/main/AOA%20Crossline%20occupancy%20NR%20Flow.jpg?raw=true)
+![Example Flow](https://github.com/cronsh/nodered-flows/blob/main/Axis-AOA-Crossline-counting-dashboard/AOA%20Crossline%20occupancy%20NR%20Flow.jpg)
 
 ## Download NodeRED flow 
 
-[Click to download flow](https://github.com/cronsh/NRflows/blob/main/AOA%20Crossline%20Occupancy%20Dashboard%20v2.json)
+[Click to download flow](https://github.com/cronsh/nodered-flows/blob/main/Axis-AOA-Crossline-counting-dashboard/AOA%20Occupancy.json)
 
 ![image](https://api.aintegration.team/image/custom-analytics)
