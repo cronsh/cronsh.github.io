@@ -11,9 +11,8 @@
 This can be used for a variety of mass warning / notification systems you only need to use your imagination. Depending on your operational requirments it could ideally suited to a lockdown system.
 
 ### Required Components
-- Camera suitable for running AOA crossline counting
+- Trigger device. This can be anything from a simple panic button, to keypad, 
 - MQTT Broker e.g. Mosquitto / NodeRED
-- NodeRED
 
 ### Things to consider
 - Make sure all the prerequisites for AOA are met for accurate counting of objects.
