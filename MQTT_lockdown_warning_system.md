@@ -8,11 +8,13 @@
  This setup can be used to create a simple auidible/visual warning or notification system. By using MQTT protocol it makes configuration simple and is ideal for mass triggering of multiple devices.
 
 ### Typical use cases:
-This can be used for a variety of mass warning / notification systems you only need to use your imagination. Depending on your operational requirments it could ideally suited to a lockdown system.
+This can be used for a variety of mass warning / notification use cases you only need to use your imagination. Depending on your operational requirements it could ideally suited to a lockdown system.
 
 ### Required Components
-- Trigger device. This can be anything from a simple panic button, to keypad, 
-- MQTT Broker e.g. Mosquitto / NodeRED
+- Trigger device: This can be anything from a simple panic button, keypad, intruder panel, or can can trigger a NO / NC output to change state.
+- MQTT publisher (used in conjection with trigger device) - If the trigger device supports MQTT no additional equipment required. However, in my example i am using a simple panic button connected to the Axis A9210 network IO (which has MQTT support)
+- Output device: Any Axis speaker, Axis audio bridge/amp, Axis D4100 strobe siren, or any other output device that supports MQTT.  
+- MQTT Broker e.g. Mosquitto, NodeRED, HiveMQ etc.
 
 ### Things to consider
 - Make sure all the prerequisites for AOA are met for accurate counting of objects.
